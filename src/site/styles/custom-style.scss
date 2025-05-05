@@ -20,14 +20,18 @@ body {
 
 }
 
+// NAV BAR //
+
 .navbar {
     background-color: #100e17;
-
+    font-size: 10px;
     }
 
+//LINKS
     /* unvisited link */
 a:link {
-  color: #0f90aa;
+    color: #0f90aa;
+    text-decoration: underline; 
 }
 
 /* visited link */
