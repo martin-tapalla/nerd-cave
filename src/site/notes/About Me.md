@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/about-me/","created":"2025-05-04T20:03:35.402-07:00","updated":"2025-05-04T20:23:17.792-07:00"}
+{"dg-publish":true,"permalink":"/about-me/","noteIcon":"","created":"2025-05-04T20:03:35.402-07:00","updated":"2025-05-04T20:23:17.792-07:00"}
 ---
 
 Greetings! My name is Martin, but some call me "Marty"

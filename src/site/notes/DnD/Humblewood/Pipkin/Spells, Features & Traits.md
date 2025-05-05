@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/humblewood/pipkin/spells-features-and-traits/","created":"2025-05-04T20:11:11.410-07:00","updated":"2025-05-04T20:16:53.798-07:00"}
+{"dg-publish":true,"permalink":"/dn-d/humblewood/pipkin/spells-features-and-traits/","noteIcon":"","created":"2025-05-04T20:11:11.410-07:00","updated":"2025-05-04T20:16:53.798-07:00"}
 ---
 
 Shortcuts:

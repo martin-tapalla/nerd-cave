@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/humblewood/pipkin/stats/","created":"2025-05-04T20:11:11.330-07:00","updated":"2025-05-04T20:17:05.422-07:00"}
+{"dg-publish":true,"permalink":"/dn-d/humblewood/pipkin/stats/","noteIcon":"","created":"2025-05-04T20:11:11.330-07:00","updated":"2025-05-04T20:17:05.422-07:00"}
 ---
 
 Shortcuts:
