@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dn-d/humblewood/pipkin/equipment-atk/","noteIcon":"","created":"2025-05-04T20:11:11.361-07:00","updated":"2025-05-04T20:16:43.618-07:00"}
+{"dg-publish":true,"permalink":"/dn-d/humblewood/pipkin/equipment-atk/","created":"2025-05-04T20:11:11.361-07:00","updated":"2025-05-04T20:16:43.618-07:00"}
 ---
 
 Shortcuts:
