@@ -20,8 +20,22 @@ body {
 
 }
 
+// <weight>: Use a value from 100 to 900
+// <uniquifier>: Use a unique and descriptive class name
+
+.roboto-serif-<uniquifier> {
+  font-family: "Roboto Serif", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100,
+    "GRAD" 0;
+}
+
 .navbar {
     background-color: #191621;
+    height: 120%; 
     }
 
     /* unvisited link */
