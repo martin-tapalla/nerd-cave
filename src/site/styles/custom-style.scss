@@ -8,8 +8,6 @@ body {
 
     //  <weight>: Use a value from 200 to 700
     //  <uniquifier>: Use a unique and descriptive class name
-
-    background-color: #353a40;
     //  .content {
     //   font-size: 14px;
     //  .oswald-<uniquifier>
@@ -18,5 +16,14 @@ body {
     //     font-weight: <weight>;
     //     font-style: normal;
 
+    font-family: "RobotoSerif", serif;
+    
+    background-color: #100e17;
+
+    .filetree {
+    background-color: #191621;
+    }
+    
+    
 }
 
