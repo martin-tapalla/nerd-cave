@@ -17,17 +17,10 @@ body {
     //     font-style: normal;
     
     background-color: #191621;
+    font-color: #bebebe;
 
 }
 
-
-//SEARCH BAR
-
-.search-container {
-    background-color: #100e17; 
-    border-radius: none; 
-    
-}
 
 // NAV BAR //
 
@@ -36,7 +29,15 @@ body {
     font-size: 15px;
     }
 
-//LINKS
+
+// FILETREE SIDEBAR//
+
+.filetree-sidebar {
+    background-color: #100e17;
+}
+
+//LINKS //
+
     /* unvisited link */
 a:link {
     color: #0f90aa;
