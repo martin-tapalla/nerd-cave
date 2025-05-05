@@ -9,7 +9,7 @@ body {
     //  <weight>: Use a value from 200 to 700
     //  <uniquifier>: Use a unique and descriptive class name
 
-    //  background-color: white;
+    background-color: white;
     //  .content {
     //   font-size: 14px;
     //  .oswald-<uniquifier>
@@ -17,16 +17,6 @@ body {
     //     font-optical-sizing: auto;
     //     font-weight: <weight>;
     //     font-style: normal;
-    
-.roboto-serif-<uniquifier> {
-  font-family: "Roboto Serif", serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
-  font-variation-settings:
-    "wdth" 100,
-    "GRAD" 0;
-}
 
 }
 
